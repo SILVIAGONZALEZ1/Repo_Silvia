@@ -14,3 +14,7 @@ Creamos una tag de un commit antiguo
 
 Creacion de release v0.1.0
 ![alt text](image-2.png)
+
+
+Delete version v1.0.2
+![alt text](image-3.png)
